@@ -1,0 +1,15 @@
+C:\Users\Aluno\Downloads\lista\bin\Debug\net6.0\lista.exe
+C:\Users\Aluno\Downloads\lista\bin\Debug\net6.0\lista.deps.json
+C:\Users\Aluno\Downloads\lista\bin\Debug\net6.0\lista.runtimeconfig.json
+C:\Users\Aluno\Downloads\lista\bin\Debug\net6.0\lista.dll
+C:\Users\Aluno\Downloads\lista\bin\Debug\net6.0\lista.pdb
+C:\Users\Aluno\Downloads\lista\obj\Debug\net6.0\lista.csproj.AssemblyReference.cache
+C:\Users\Aluno\Downloads\lista\obj\Debug\net6.0\lista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Downloads\lista\obj\Debug\net6.0\lista.AssemblyInfoInputs.cache
+C:\Users\Aluno\Downloads\lista\obj\Debug\net6.0\lista.AssemblyInfo.cs
+C:\Users\Aluno\Downloads\lista\obj\Debug\net6.0\lista.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Downloads\lista\obj\Debug\net6.0\lista.dll
+C:\Users\Aluno\Downloads\lista\obj\Debug\net6.0\refint\lista.dll
+C:\Users\Aluno\Downloads\lista\obj\Debug\net6.0\lista.pdb
+C:\Users\Aluno\Downloads\lista\obj\Debug\net6.0\lista.genruntimeconfig.cache
+C:\Users\Aluno\Downloads\lista\obj\Debug\net6.0\ref\lista.dll
